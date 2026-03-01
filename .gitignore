@@ -21,3 +21,6 @@ Thumbs.db
 
 # Working notes (session-specific)
 notes-*.md
+
+# Prompts (local only)
+prompts/
