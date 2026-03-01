@@ -200,3 +200,7 @@ This is the foundational empirical study establishing what blind screen reader u
 - Hackett, Parmento & Zeng (2004) — "Accessibility of Internet Websites through time" — ACM ASSETS 2004 — longitudinal accessibility measurement
 - Zajicek, Powell & Reeves (1998) — BrookesTalk — "A Web navigation tool for the blind" — ASSETS 1998 — early integrated SR/browser work
 - Trewin & Pain (1999) — "Keyboard and mouse errors due to motor disabilities" — IJHCS — AT input errors study
+
+---
+
+**See also:** Asakawa_2005_BlindWebBrowsing — Asakawa (2005) provides the historical context and tool-level analysis that precedes this work: the paper identifies broken skip-links and inappropriate ALT texts as specific failure modes (with longitudinal data and four code-level error patterns), and argues that sighted developers need to experience blind browsing to produce truly usable pages. The two papers together document the compliance-vs-usability gap from the tooling side (Asakawa) and the user experience side (Lazar et al.).

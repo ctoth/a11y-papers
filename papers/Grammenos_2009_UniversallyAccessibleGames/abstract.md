@@ -1,0 +1,11 @@
+# Abstract
+
+## Original Text (Verbatim)
+
+Today, computer games are one of the major sources of entertainment. Computer games are usually far more demanding than typical interactive applications in terms of motor and sensory skills needed for interaction control, due to special-purpose input devices, complicated interaction techniques, and the primary emphasis on visual control and attention. This renders computer games inaccessible to a large percentage of people with disabilities. This article introduces the concept of *universally accessible games*, that is, games proactively designed to optimally fit and adapt to individual gamer characteristics and to be concurrently played among people with diverse abilities, without requiring particular adjustments or modifications. The concept is elaborated and tested through four case studies: a web-based chess game (*UA-Chess*), an action game (*Access Invaders*), a universally inaccessible game (*Game Over!*) used as an interactive educational tool, and an improved version of *Access Invaders* (*Terrestrial Invaders*). For all cases, key design and evaluation findings are discussed, reporting consolidated know-how and experience. Finally, the research challenge of creating multiplayer universally accessible games is further elaborated, proposing the novel concept of *Parallel Game Universes* as a potential solution.
+
+---
+
+## Our Interpretation
+
+Computer games are disproportionately inaccessible because they demand specialized motor, visual, and cognitive skills that existing assistive technology cannot retrofit reliably. This paper defines "universally accessible games" (UA-Games) as games built from the ground up to serve all disability groups simultaneously — not sequentially or separately — and validates the concept through four working game implementations. The key practical contribution is a structured design methodology and concrete implementation patterns (hierarchical scanning, self-voicing, profile-driven adaptation, parallel game universes) that any game developer can apply to build cross-disability-inclusive games, making this the essential implementation-level companion to survey-level game accessibility literature in this collection.

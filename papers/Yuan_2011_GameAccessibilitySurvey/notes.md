@@ -249,3 +249,17 @@ This paper provides the foundational taxonomy for game accessibility research. I
 - Smith et al. (2006) [81] — eye movements for video game control — alternative input
 - Simpson et al. (1999) [80] — adaptive one-switch row-column scanning — motor AT fundamentals
 - Yuan & Folmer (2008) [106] — Blind Hero (haptic guitar hero) — specific accessible game design
+
+---
+
+**See also:** Porter_2013_GameAccessibilityBarriers — Empirical complement to this paper. Porter & Kientz (ASSETS 2013) conducted surveys of 55 disabled gamers and interviews with 6 game developers, providing ground-truth data on which barriers from Yuan's theoretical framework actually manifest in practice. Key finding: AT incompatibility is the dominant real-world barrier; middleware is the primary structural intervention point.
+
+**See also:** Gerling_2012_FullBodyMotionGame — Empirical instantiation of Yuan's motor impairment category for institutionalized older adults using Kinect full-body motion control. Two user studies (N=15, N=12) with wheelchair users and stroke survivors validate a gesture set and produce seven design guidelines for the "provide input" step specifically. Provides per-player calibration architecture (ROM, strength, agility) and PANAS mood improvement data (p<0.01).
+
+**See also:** Westin_2004_GameAccessibilityTerraformers — The earliest concrete case study of 3D game accessibility (2000–2003 development, 2004 publication) that predates and helped motivate this survey. Westin initiated the IGDA Game Accessibility SIG that Yuan et al. cite as a community resource, and Terraformers is one of the earliest games bridging visual/audio hybrid gameplay for blind and sighted players simultaneously.
+
+**See also:** Grammenos_2009_UniversallyAccessibleGames — The primary implementation-level paper underlying Yuan's conceptual framework. Grammenos et al. define UA-Games (universally accessible games), demonstrate four working implementations (UA-Chess, Access Invaders, Game Over\!, Terrestrial Invaders), and introduce the Parallel Game Universes concept for cross-disability multiplayer. Table I of Grammenos maps directly onto Yuan's two-level strategy taxonomy, providing the concrete adaptation parameters (13 categories: Speed, Quantity, Size, Layout, Firepower, Visual complexity, Contrast, Sound, Interaction rules, Analogue vs. digital control, Hints, Stamina) that Yuan surveys at a high level.
+
+---
+
+**See also:** AguadoDelgado_2020_VideoGamesA11ySystematicReview — extends Yuan (2011) as a PRISMA-compliant systematic mapping study of 45 game accessibility papers (2004–2014); builds on this paper's three-phase interaction model and disability taxonomy; provides the quantitative evidence base and a 45-study retrieval appendix complementing this paper's conceptual framework.

@@ -221,3 +221,19 @@ This is the foundational theoretical framework for accessible computing from an 
 ### Supersedes or Recontextualizes
 
 - This paper provides the theoretical framing that **Krishnavajjala_2024_MotorEase** implicitly operates within — MotorEase detects violations of what would be ABD Principle 2 (Accountability: the system should not require users to struggle with inadequate touch targets). The ABD framework makes explicit why MotorEase's detection targets matter theoretically.
+
+---
+
+**See also:** Newell_2000_UserSensitiveInclusiveDesign — ABD (2011) extends and operationalises the paradigm shift Newell & Gregor (2000) initiated: USID argued that "design for all" must be replaced by sensitivity to individual user functionality; ABD translates that principle into seven concrete design directives and grounds it in ability-space rather than disability-space.
+
+---
+
+**See also:** Shneiderman_2000_UniversalUsability — foundational predecessor; Shneiderman established the three-challenge universal usability framework (technology variety, user diversity, gaps in user knowledge) and the curb-cut argument that disability accommodation benefits all users. ABD extends and reframes the "user diversity" challenge by shifting from compensating for disability to leveraging user abilities.
+
+---
+
+**See also:** Mankoff_2010_DisabilityStudiesCriticalInquiry — provides the disability studies critique of the medical model that ability-based design responds to; Mankoff et al. argue AT research defaults to "fixing deficits" (medical model) without interrogating whether this is the right frame, while ABD operationalises the shift to leveraging capabilities rather than compensating for deficits. Reading Mankoff 2010 first clarifies the theoretical problem that ability-based design solves.
+
+---
+
+**See also:** Vanderheiden_1990_ThirtySomethingMillion — the 1990 precursor that makes the foundational demographic and economic arguments that ABD (2011) formalizes theoretically. Vanderheiden established the continuous ability-distribution framing, the TABs concept, and the argument that mainstream design must incorporate disability; ABD operationalizes these intuitions into the seven-principle framework.

@@ -1,0 +1,11 @@
+# Abstract
+
+## Original Text (Verbatim)
+
+Video games are software products with several purposes that are growing in strength and weight in society. However, there is one noticeable problem about them; in most cases, their developers most often do not take into consideration people with disabilities when they are creating video game applications. People with disabilities are thus partially or completely excluded from their use. Prior to any additional work, it is required to have an updated state of the art about this topic. This paper shows the results of a systematic literature review conducted to define the current status of video games accessibility. The type of review is broader than usual, so it is a systematic mapping study (a specific class of systematic review). Besides elaborating the state of the art (qualitative information), we identified and analyzed related works (45 relevant studies) to provide quantitative information of the performed search (including graphs and tables), such as the number of articles found by phases, their sources, their research type, the research questions answered, the kind of disability addressed, and the type and year of publications. None of the studied initiatives can guarantee universally accessible video game applications. Our proposal is to create an integral software engineering methodology that considers accessibility guidelines, techniques, strategies, human factors, etc. in the video game software development process.
+
+---
+
+## Our Interpretation
+
+The paper diagnoses a field-wide failure: video games remain inaccessible to disabled players because developers ignore accessibility research, and no solution guarantees universal access. By mapping 45 studies across the 2004–2014 decade through a rigorous PRISMA process, the authors establish what has been tried (hardware adapters, frameworks, guidelines, accessible game builds) and quantify what has not been addressed — most critically, a software engineering methodology that integrates accessibility from the start of game development. For this collection the abstract establishes the central research gap (RQ3: no methodology exists) that subsequent game accessibility papers should be read against, and confirms that the Yuan_2011_GameAccessibilitySurvey's conceptual framework is the accepted theoretical foundation the field builds on.
