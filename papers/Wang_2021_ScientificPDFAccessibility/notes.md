@@ -232,3 +232,7 @@ This is the primary empirical foundation for scientific PDF accessibility. It es
 - Lo et al. (2020) "S2ORC: The Semantic Scholar Open Research Corpus" — ACL 2020 — the NLP pipeline underlying SciA11y
 - Nganji (2015) "The Portable Document Format (PDF) accessibility practice of four journal publishers" — Library & Information Science Research — disability journals angle
 - Siegel et al. (2018) "Extracting Scientific Figures with Distantly Supervised Neural Networks" — ACM/IEEE JCDL — DeepFigures paper
+
+---
+
+**See also:** Singh_2024_FigurA11y — Directly addresses the author-side alt text authoring gap identified in Wang et al.'s recommendations: FigurA11y provides a validated GPT-4-based human-AI collaborative system for writing scientific figure alt text, tested with N=14 paper authors. Where Wang established that alt text is absent from 97.60f scientific papers and recommended tooling support for authors, Singh et al. deliver that tooling.

@@ -230,3 +230,7 @@ Directly addresses motor impairment topic area. Provides concrete, implementable
 - Kong et al. (2021) — touch target size research; provides empirical basis for the 8px threshold used here
 - Chiou et al. (2021/2023) (CHI) — keyboard accessibility failures; related automated detection work
 - Mack et al. (2021) is already in collection but not cited by this paper
+
+---
+
+**See also:** Wobbrock_2011_AbilityBasedDesign — provides the foundational theoretical framework (Principle 2: Accountability — systems should respond to poor performance by changing, not requiring users to adapt) that explains *why* MotorEase's four violation categories matter. MotorEase operationalizes ABD's accountability principle as automated static analysis for mobile UIs.
