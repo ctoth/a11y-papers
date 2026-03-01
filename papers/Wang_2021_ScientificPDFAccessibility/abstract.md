@@ -1,0 +1,11 @@
+# Abstract
+
+## Original Text (Verbatim)
+
+The majority of scientific papers are distributed in PDF, which pose challenges for accessibility, especially for blind and low vision (BLV) readers. We characterize the scope of this problem by assessing the accessibility of 11,397 PDFs published 2010–2019 sampled across various fields of study, finding that only 2.4% of these PDFs satisfy all of our defined accessibility criteria. We introduce the SciA11y system to offset some of the issues around inaccessibility. SciA11y incorporates several machine learning models to extract the content of scientific PDFs and render this content as accessible HTML, with added novel navigational features to support screen reader users. An intrinsic evaluation of extraction quality indicates that the majority of HTML renders (87%) produced by our system have no or only some readability issues. We perform a qualitative user study to understand the needs of BLV researchers when reading papers, and to assess whether the SciA11y system could address these needs. We summarize our user study findings into a set of five design recommendations for accessible scientific reader systems. User response to SciA11y was positive, with all users saying they would be likely to use the system in the future, and some stating that the system, if available, would become their primary workflow. We successfully produce HTML renders for over 12M papers, of which an open access subset of 1.5M are available for browsing at scia11y.org.
+
+---
+
+## Our Interpretation
+
+This paper establishes the empirical foundation for understanding PDF inaccessibility in science: 97.6% of papers fail full accessibility compliance, making inaccessibility the default rather than the exception. The SciA11y system shows that ML-based PDF-to-HTML conversion is feasible at scale (12M papers) and yields acceptable readability for 87% of outputs, though the inability to extract mathematical equations remains a significant gap. The five design recommendations — matching document structure to mental models, proper object tagging, acting as external memory, indicating extraction errors, and reducing verbosity — are directly actionable for any tool designed to help blind and low-vision users read technical documents.

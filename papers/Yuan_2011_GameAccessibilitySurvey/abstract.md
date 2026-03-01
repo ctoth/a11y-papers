@@ -1,0 +1,11 @@
+# Abstract
+
+## Original Text (Verbatim)
+
+Over the last three decades, video games have evolved from a pastime into a force of change that is transforming the way people perceive, learn about, and interact with the world around them. In addition to entertainment, games are increasingly used for other purposes such as education or health. Despite this increased interest, a significant number of people encounter barriers when playing games due to a disability. Accessibility problems may include the following: (1) not being able to receive feedback; (2) not being able to determine in-game responses; (3) not being able to provide input using conventional input devices. This paper surveys the current state-of-the-art in research and practice in the accessibility of video games and points out relevant areas for future research. A generalized game interaction model shows how a disability affects ones ability to play games. Estimates are provided on the total number of people in the United States whose ability to play games is affected by a disability. A large number of accessible games are surveyed for different types of impairments, across several game genres, from which a number of high- and low-level accessibility strategies are distilled for game developers to inform their design.
+
+---
+
+## Our Interpretation
+
+The paper addresses a gap in structured understanding of why and how disabilities create barriers to game play, which previously had only been addressed through informal checklists. Its core contribution is a three-step interaction model (receive stimuli → determine response → provide input) that precisely maps each disability category to the step it disrupts, enabling developers to understand which class of accessibility solution is needed rather than applying guidelines blindly. For this collection, it is the essential reference for game accessibility, providing both a conceptual framework and an empirical catalogue of strategies that serve as the baseline for all subsequent game accessibility research.

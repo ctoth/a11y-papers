@@ -1,0 +1,11 @@
+# Abstract
+
+## Original Text (Verbatim)
+
+The prevalence of mobile applications in everyday life underscores the critical importance of ensuring their accessibility to users with diverse abilities, including those with motor impairments. Motor impairments affect a significant portion of the global population and can severely limit a user's ability to interact with touchscreen devices. Despite this, automated mobile accessibility testing techniques have largely overlooked motor impairment considerations. To help bridge this gap, this paper introduces MotorEase, a novel approach capable of identifying accessibility issues in mobile app UIs that impact motor-impaired users. MotorEase adapts computer vision and text processing techniques to enable a semantic understanding of app UI screens, enabling the detection of violations related to four popular, previously unexplored UI design guidelines that support motor-impaired users, including: (i) visual touch target size, (ii) expanding sections, (iii) persisting elements, and (iv) adjacent icon visual distance. We evaluate MotorEase on a newly derived benchmark, called MotorCheck, that contains 555 manually annotated examples of violations to the above accessibility guidelines, across 1599 screens collected from 70 applications via a mobile app testing tool. Our results illustrate that MotorEase is able to identify violations with an average accuracy of ~90%, and a false positive rate of less than 9%, outperforming baseline techniques.
+
+---
+
+## Our Interpretation
+
+This paper addresses a gap in automated accessibility testing: existing tools largely ignore motor-impaired users, who interact via switch scanning or constrained touch and are harmed by small touch targets, uncloseable pop-ups, moving persistent elements, and crowded icons. MotorEase fills this gap by combining computer vision (edge detection, object detection) with Android uiautomator XML metadata to detect these four violation types automatically. For this collection, it is the foundational reference for motor-impairment automated detection, providing specific thresholds and a benchmark methodology directly applicable to building or evaluating similar tools.
