@@ -131,6 +131,9 @@ This paper is the definitive taxonomy for interactive map accessibility research
 - **Biggs_2025_MapEquivalentPurpose** - Directly extends this review's work on map accessibility; the MEP Framework evaluates text-based map representations that this paper's DIM category encompasses
 - **Wobbrock_2011_AbilityBasedDesign** - The ability-based design principles apply to the adaptive interaction techniques reviewed here (e.g., Kane et al.'s tabletop techniques)
 - **Lazar_2007_ScreenReaderFrustration** - Screen reader frustration with web maps is a motivating problem for the DIM category
+- **Giudice_2020_CognitiveMappingWithoutVision** - Directly validates the DIM approach reviewed here: a vibro-audio touchscreen map achieves equivalent spatial learning to traditional tactile maps
+- **Froehlich_2025_StreetReaderAI** - Advances this review's DIM category to the AI era with accessible virtual street exploration for blind users
+- **Millar_1995_SpatialInformation** - Provides the cognitive science foundations for understanding spatial cognition without vision that underpins this review's spatial cognition analysis
 
 ### New Leads (Not Yet in Collection)
 - Brock et al. (2015) - "Interactivity Improves Usability of Geographic Maps for Visually Impaired People" - The strongest empirical validation of interactive tactile maps with 24 blind participants

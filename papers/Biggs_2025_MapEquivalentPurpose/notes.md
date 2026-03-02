@@ -161,3 +161,11 @@ This paper is directly relevant to web accessibility standards evaluation. It op
 
 ### Supersedes or Recontextualizes
 - None directly — this paper creates a new evaluation dimension not previously covered
+
+---
+
+**See also:** Froehlich_2025_StreetViewAI -- StreetReaderAI provides a concrete implementation of AI-mediated accessible street view that goes far beyond the text-based map representations evaluated in this paper, offering conversational multimodal AI access to the full richness of streetscape imagery. Could serve as a benchmark system for future MEP evaluations.
+
+**See also:** Ducasse_2018_AccessibleInteractiveMaps -- Provides the comprehensive DIM/HIM classification taxonomy that contextualizes the interactive map technologies evaluated in this paper. The Audiom interactive maps that scored 100% MEP equivalence fall within Ducasse et al.'s Digital Interactive Maps category (finger-based exploration subcategory).
+
+**See also:** Conway_2020_AudioDescriptionMaps -- Provides the empirical production methodology for audio-described maps, one of the three approaches achieving 100% MEP equivalence in this paper. Conway et al.'s three-step workflow (identify purpose, short description, long description with navigation guide) and five affinity clusters document HOW to produce the audio descriptions that this paper evaluates as maximally equivalent.
